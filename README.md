@@ -1,2 +1,2 @@
-# GenNet_paper_plots
+# GenNet plots
 Stores all (interactive) plots for the paper

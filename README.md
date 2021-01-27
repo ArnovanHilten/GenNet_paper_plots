@@ -5,8 +5,8 @@ To see the static images properly:
 
 1. Click on the .png file you are interested in.
 1. If there is only a small part of the image visible since they are very big:
-  1. Right click on the image
-  1. Open in a new tab
+    1. Right click on the image
+    1. Open in a new tab
 
 To see the interactive plots:
 
